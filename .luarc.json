@@ -1,10 +1,24 @@
 {
   "workspace.library": [
-    "../plenary.nvim/lua",
-    "../telescope.nvim/lua",
-    "../telescope.nvim/plugin",
-    "../muryp-link.nvim/lua",
-    "../muryp-checklist.nvim/lua",
-    "../muryp-frontmatter.nvim/lua"
+    "../tokyonight.nvim/lua/",
+    "../tokyonight.nvim/plugin/",
+    "../noice.nvim/lua/",
+    "../noice.nvim/plugin/",
+    "../nui.nvim/lua/",
+    "../nui.nvim/plugin/",
+    "../nvim-notify/lua/",
+    "../nvim-notify/plugin/",
+    "../indent-blankline.nvim/lua/",
+    "../indent-blankline.nvim/plugin/",
+    "../indent-rainbowline.nvim/lua/",
+    "../indent-rainbowline.nvim/plugin/",
+    "../which-key.nvim/lua/",
+    "../which-key.nvim/plugin/",
+    "../alpha-nvim/lua/",
+    "../alpha-nvim/plugin/",
+    "../nvim-ufo/lua/",
+    "../nvim-ufo/plugin/",
+    "../nvim-navic/lua/",
+    "../nvim-navic/plugin/"
   ]
 }

@@ -1,7 +1,5 @@
 return {
-  {
-    'folke/tokyonight.nvim',
-  },
+  'folke/tokyonight.nvim',
   {
     'folke/noice.nvim',
     event = 'BufRead',
@@ -19,7 +17,7 @@ return {
         },
       },
       popupmenu = {
-        enabled = true,  -- enables the Noice popupmenu UI
+        enabled = true, -- enables the Noice popupmenu UI
         ---@type 'nui'|'cmp'
         backend = 'cmp', -- backend to use to show regular cmdline completions
       },
@@ -29,17 +27,15 @@ return {
       'rcarriga/nvim-notify',
     },
   },
-  {
-    'rcarriga/nvim-notify',
-  },
+  'rcarriga/nvim-notify',
   {
     'nvim-lualine/lualine.nvim',
     cmd = 'LualineToggle',
   },
   {
-    "lukas-reineke/indent-blankline.nvim",
+    'lukas-reineke/indent-blankline.nvim',
     dependencies = {
-      "TheGLander/indent-rainbowline.nvim",
+      'TheGLander/indent-rainbowline.nvim',
     },
   },
   {
